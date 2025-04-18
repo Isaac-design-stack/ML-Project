@@ -1,0 +1,1 @@
+## End to end Machine Leraning project on Salary Prediction project using Simple Linear Regression
