@@ -1,1 +1,1 @@
-## End to End Machine Learning project on Salary Prediction project using Simple Linear Regression
+## End to End Machine Learning project on Salary Prediction using Simple Linear Regression
