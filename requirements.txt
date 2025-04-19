@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+seaborn
+tensorflow
+opencv-python
+Pillow
+-e .
